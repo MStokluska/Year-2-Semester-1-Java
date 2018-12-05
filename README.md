@@ -4,6 +4,11 @@ This is my first project for semester 1 of year 2 at Waterford Institute of Tech
 Project was created in Eclipse.
 
 Programme purpose:
+Purpose of this programme is to create a software user, allow only created users to log in, choose 1 or 2 from a set of shapes and perform
+different kind of calculations like area, permimeter, combined area, combined perimeter and more. 
+Programme is not persistent.
+
+How to:
 1. Log in window appears once program is executed
 2. User needs to click on create user in order to create user 
 3. User has to specify how many users would he like to add 
